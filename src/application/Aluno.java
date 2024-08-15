@@ -31,7 +31,7 @@ public class Aluno {
             System.out.printf("Faltam: %d", 60-nota.somadorNota(nota.nota1,nota.nota2,nota.nota3));
         }
         else {
-            System.out.println("Aprovao");
+            System.out.println("Aprovado");
         }
 
     }
